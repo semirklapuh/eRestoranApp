@@ -1,0 +1,62 @@
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.deps.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.runtimeconfig.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.runtimeconfig.dev.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.pdb
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.dll.config
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csprojAssemblyReference.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorAssemblyInfo.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorAssemblyInfo.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.AssemblyInfoInputs.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.AssemblyInfo.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorTargetAssemblyInfo.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csproj.CopyComplete
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.deps.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.runtimeconfig.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.runtimeconfig.dev.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.dll.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csprojAssemblyReference.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorAssemblyInfo.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorAssemblyInfo.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.AssemblyInfoInputs.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.AssemblyInfo.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csproj.CopyComplete
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.deps.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.runtimeconfig.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.runtimeconfig.dev.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.WebApi.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\bin\Debug\netcoreapp2.1\eRestoran.Model.dll.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csprojAssemblyReference.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.AssemblyInfoInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.AssemblyInfo.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorAssemblyInfo.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorAssemblyInfo.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.csproj.CopyComplete
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WebApi\obj\Debug\netcoreapp2.1\eRestoran.WebApi.genruntimeconfig.cache

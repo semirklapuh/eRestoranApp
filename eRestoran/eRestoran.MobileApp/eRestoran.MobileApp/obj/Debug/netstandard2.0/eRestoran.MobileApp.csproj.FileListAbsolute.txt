@@ -1,0 +1,100 @@
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.deps.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.pdb
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.dll.config
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csprojAssemblyReference.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ProfilPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\Registracija.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.AssemblyInfoInputs.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.AssemblyInfo.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csproj.CopyComplete
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.pdb
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\DetaljiPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\EmailPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\JelaPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ManuPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\RezervacijaPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\VaseRezervacijePage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\AktivnaNarudzbaPage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\SveNarudzbePage.xaml.g.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\StavkaSaNarudzbePage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.deps.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.dll.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csprojAssemblyReference.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\AktivnaNarudzbaPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\DetaljiPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\EmailPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\JelaPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ManuPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ProfilPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\Registracija.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\RezervacijaPage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\StavkaSaNarudzbePage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\SveNarudzbePage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\VaseRezervacijePage.xaml.g.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.AssemblyInfoInputs.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.AssemblyInfo.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csproj.CopyComplete
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.deps.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.MobileApp.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\bin\Debug\netstandard2.0\eRestoran.Model.dll.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csprojAssemblyReference.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\AktivnaNarudzbaPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\DetaljiPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\EmailPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\JelaPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ManuPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\ProfilPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\Registracija.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\RezervacijaPage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\StavkaSaNarudzbePage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\SveNarudzbePage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\Views\VaseRezervacijePage.xaml.g.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.AssemblyInfoInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.AssemblyInfo.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.csproj.CopyComplete
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp\obj\Debug\netstandard2.0\eRestoran.MobileApp.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:eRestoran.MobileApp.ViewModels"
+             mc:Ignorable="d"
+             BackgroundColor="LightGray"
+             Padding="10"
+             x:Class="eRestoran.MobileApp.Views.Registracija">
+
+    <ContentPage.BindingContext>
+        <viewModels:RegistracijaViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout  BackgroundColor="LightGray">
+            <Label Text="REGISTRACIJA" Margin="20" HorizontalOptions="Center"></Label>
+            <Label Text="Ime"></Label>
+            <Entry Text="{Binding Ime}"></Entry>
+            <Label Text="{Binding ImeError}" Margin="5" IsVisible="{Binding VisibleIme}"
+                   TextColor="Red"></Label>
+
+            <Label Text="Prezime"></Label>
+            <Entry Text="{Binding Prezime}"></Entry>
+            <Label Text="{Binding PrezimeError}" Margin="5"  IsVisible="{Binding VisiblePrezime}"
+                   TextColor="Red"></Label>
+
+
+            <Label Text="Adresa"></Label>
+            <Entry Text="{Binding Adresa}"></Entry>
+            <Label Text="{Binding AdresaError}" Margin="5" IsVisible="{Binding VisibleAdresa}"
+                   TextColor="Red"></Label>
+
+            <Picker Title="Odaberi grad:" ItemsSource="{Binding GradoviList}"
+                    ItemDisplayBinding="{Binding Naziv}"
+                    SelectedItem="{Binding Grad}"
+                   />
+
+            <Label Text="{Binding GradError}" Margin="5"
+        IsVisible="{Binding VisibleGrad}" TextColor="Red" />
+
+            <Label  Text="Korisnicko ime:"/>
+            <Entry Text="{Binding KorsIme}" ></Entry>
+            <Label Text="{Binding KorsError}" Margin="5"
+        IsVisible="{Binding VisibleKors}" TextColor="Red" />
+
+            <Label  Text="Lozinka:"/>
+            <Entry Text="{Binding Lozinka1}" IsPassword="True"></Entry>
+            <Label Text="{Binding PassError}" Margin="5"
+        IsVisible="{Binding VisiblePass}" TextColor="Red" />
+
+            <Label  Text="Potvrda lozinke:" />
+            <Entry Text="{Binding Lozinka2}" IsPassword="True"></Entry>
+            <Label Text="{Binding Pass1Error}" Margin="5"
+        IsVisible="{Binding Visible2Pass}" TextColor="Red" />
+
+            <Label  Text="Telefon:"/>
+            <Entry Text="{Binding Telefon}"></Entry>
+            <Label Text="{Binding TelError}" Margin="5"
+        IsVisible="{Binding VisibleTel}" TextColor="Red" />
+
+            <Button Command="{Binding Registracija}"  BackgroundColor="#2D74AC"  Text="Registruj se" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

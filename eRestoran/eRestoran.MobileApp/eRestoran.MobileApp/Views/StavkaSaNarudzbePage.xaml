@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:eRestoran.MobileApp.ViewModels;assembly=eRestoran.MobileApp"
+             x:Class="eRestoran.MobileApp.Views.StavkaSaNarudzbePage">
+    <ContentPage.BindingContext>
+        <viewModels:StavkeNarudzbeViewModel></viewModels:StavkeNarudzbeViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Vasa narudzba" FontSize="24" Style="{DynamicResource ListItemTextStyle}"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"/>
+            <ListView ItemsSource="{Binding NarudzbaStavkeList}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10" Orientation="Vertical">
+                                <Label Text="{Binding Jelo}"                                
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                                <StackLayout Orientation="Horizontal">
+                                <Label Text="Kolicina:"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                    <Label Text="{Binding Kolicina}"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                <Label Text="Cijena:"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                    <Label Text="{Binding Cijena}"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                <Label Text="KM"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                </StackLayout>
+                                
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

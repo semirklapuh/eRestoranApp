@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:eRestoran.MobileApp.ViewModels;assembly=eRestoran.MobileApp"
+             mc:Ignorable="d"
+             x:Class="eRestoran.MobileApp.Views.DetaljiPage">
+    <ContentPage.Content>
+        <StackLayout Padding="30">
+            <Grid x:Name="jeloGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <!--<StackLayout Grid.Row="0" Grid.Column="1" Margin="10,0,0,0"  >
+                <Label x:Name="NazivLabel" Text="{Binding Naziv}"></Label>
+                <Label x:Name="cijenaLabel" Text="{Binding Cijena}"></Label>
+            </StackLayout>-->
+            <StackLayout Grid.Row="0" Grid.Column="1" Margin="10,0,0,0" Orientation="Horizontal" >
+                <Label Text="Jelo:"></Label>
+                <Label x:Name="NazivLabel" Text="{Binding Naziv}"></Label>
+                
+            </StackLayout>
+            <StackLayout Grid.Row="0" Grid.Column="1" Margin="10,0,0,0" Orientation="Horizontal" >
+               
+                <Label Text="Cijena:"></Label>
+                <Label x:Name="cijenaLabel" Text="{Binding Cijena}"></Label>
+                <Label Text="KM"></Label>
+            </StackLayout>
+            <StackLayout Grid.Row="1" Grid.Column="1" Margin="10,0,0,0" Orientation="Horizontal">
+                <Entry x:Name="kolicinaInput" Text="1"
+                       HorizontalOptions="Start" VerticalOptions="Center"></Entry>
+                <Button x:Name="dodajButton" Text="Dodaj u korpu" Clicked="dodajButton_Clicked"></Button>
+            </StackLayout>
+            <Label x:Name="infoLabel"></Label>
+            <Button x:Name="zakljuciNarudzbuButton" Text="Zakljuci narudzbu" IsVisible="False" Clicked="zakljuciNarudzbuButton_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

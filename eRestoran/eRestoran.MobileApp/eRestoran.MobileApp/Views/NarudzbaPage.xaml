@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="eRestoran.MobileApp.Views.NarudzbaPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Stavke narudzbe" FontSize="Large" FontAttributes="Bold"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <ListView ItemsSource="{Binding stavkeNarudzbe}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame Padding="2" Margin="0,5,0,5">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                        <ColumnDefinition Width="*"></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                        <RowDefinition Height="*"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <StackLayout Grid.Column="0" Grid.Row="0" Padding="5">
+                                        <Label Text="{Binding Jelo}"
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemTextStyle}"
+                                       FontSize="18" ></Label>
+                                        <Label Text="{Binding Cijena,StringFormat='Cijena: {0} KM'}"
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemDetailTextStyle}"
+                                       FontSize="13"></Label>
+                                        <Label Text="{Binding Kolicina,StringFormat='Kolicina: {0} kom'}"
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemDetailTextStyle}"
+                                       FontSize="13"></Label>
+                                    </StackLayout>
+                                </Grid>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Grid.Column="1" Grid.Row="1" Text="Nazad" BackgroundColor="Accent" Clicked="Button_Clicked" HorizontalOptions="End" HeightRequest="50" WidthRequest="200"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

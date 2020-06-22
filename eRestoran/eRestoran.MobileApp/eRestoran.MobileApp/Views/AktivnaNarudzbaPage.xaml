@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:eRestoran.MobileApp.ViewModels;assembly=eRestoran.MobileApp"
+             mc:Ignorable="d"
+             x:Class="eRestoran.MobileApp.Views.AktivnaNarudzbaPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="30">
+            <Label  Text="eRestoran :: Aktivna narudzba" FontSize="25" HorizontalTextAlignment="Center"></Label>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <ListView x:Name="narudzbaList" Grid.Row="0" RowHeight="130">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Grid.Column="0">
+                                    <Label Text="{Binding Jelo.Naziv}"></Label>
+                                    <Label Text="{Binding Jelo.Cijena, StringFormat='Cijena: {0} KM'}"></Label>
+                                    <Label Text="{Binding Kolicina,  StringFormat='Kolicina: {0}'}"></Label>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <StackLayout Orientation="Horizontal" Grid.Row="2">
+                    <Label x:Name="iznosLabel" VerticalOptions="Center"></Label>
+                    <Button x:Name="zakljuciButton" Text="Zakljuci" HorizontalOptions="Start" Clicked="zakljuciButton_Clicked"></Button>
+                </StackLayout>
+                
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

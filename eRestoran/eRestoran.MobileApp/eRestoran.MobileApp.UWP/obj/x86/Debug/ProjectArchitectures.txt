@@ -1,0 +1,1 @@
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.MobileApp\eRestoran.MobileApp.UWP\eRestoran.MobileApp.UWP.csproj;x86

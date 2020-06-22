@@ -1,0 +1,12 @@
+Windows forms :
+
+Username : password
+zaposleni : testtest (menadzer)
+
+emin : testtest (administrator)
+
+Xamarin:
+
+semir.klapuh: testtest (klijent)
+ili mogucnost registracije korisnika
+

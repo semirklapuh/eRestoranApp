@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.EntityFrameworkCore.Design.3.0.0\build\net461\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('..\packages\Microsoft.EntityFrameworkCore.Design.3.0.0\build\net461\Microsoft.EntityFrameworkCore.Design.props')" />
+  <Import Project="..\packages\Microsoft.AspNetCore.Razor.Design.2.2.0\build\netstandard2.0\Microsoft.AspNetCore.Razor.Design.props" Condition="Exists('..\packages\Microsoft.AspNetCore.Razor.Design.2.2.0\build\netstandard2.0\Microsoft.AspNetCore.Razor.Design.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C7713AF9-9E4F-47E9-AA46-DFDB8C864506}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>eRestoran.WinUI</RootNamespace>
+    <AssemblyName>eRestoran.WinUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>D:\Dokumenti\Desktop\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl, Version=2.8.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.2.8.2\lib\net40\Flurl.dll</HintPath>
+    </Reference>
+    <Reference Include="Flurl.Http, Version=2.4.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Flurl.Http.2.4.2\lib\net46\Flurl.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.6.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APIService.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminIndex.Designer.cs">
+      <DependentUpon>frmAdminIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenadzerIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenadzerIndex.Designer.cs">
+      <DependentUpon>frmMenadzerIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nabavke\frmNabavkaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nabavke\frmNabavkaDetalji.Designer.cs">
+      <DependentUpon>frmNabavkaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nabavke\frmNabavkaNova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nabavke\frmNabavkaNova.Designer.cs">
+      <DependentUpon>frmNabavkaNova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nabavke\frmNabavke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nabavke\frmNabavke.Designer.cs">
+      <DependentUpon>frmNabavke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nabavke\StatusNarudzbe.cs" />
+    <Compile Include="Narudzbe\frmNarudzbaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe\frmNarudzbaDetalji.Designer.cs">
+      <DependentUpon>frmNarudzbaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe\frmNarudzbe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudzbe\frmNarudzbe.Designer.cs">
+      <DependentUpon>frmNarudzbe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Narudzbe\NarudzbeKlijenti.cs" />
+    <Compile Include="Narudzbe\StatusNarudzbe.cs" />
+    <Compile Include="Obavijesti\frmObavijestDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijesti\frmObavijestDetalji.Designer.cs">
+      <DependentUpon>frmObavijestDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obavijesti\frmObavijesti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obavijesti\frmObavijesti.Designer.cs">
+      <DependentUpon>frmObavijesti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezervacije\frmRezervacijaStavke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rezervacije\frmRezervacijaStavke.Designer.cs">
+      <DependentUpon>frmRezervacijaStavke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rezervacije\frmRezervacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rezervacije\frmRezervacije.Designer.cs">
+      <DependentUpon>frmRezervacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Roba\frmIzmjenaStanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Roba\frmIzmjenaStanja.Designer.cs">
+      <DependentUpon>frmIzmjenaStanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Roba\frmRoba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Roba\frmRoba.Designer.cs">
+      <DependentUpon>frmRoba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Roba\frmRobaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Roba\frmRobaDetalji.Designer.cs">
+      <DependentUpon>frmRobaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uposlenici\frmUposlenici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uposlenici\frmUposlenici.Designer.cs">
+      <DependentUpon>frmUposlenici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uposlenici\frmUposleniciDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uposlenici\frmUposleniciDetalji.Designer.cs">
+      <DependentUpon>frmUposleniciDetalji.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAdminIndex.resx">
+      <DependentUpon>frmAdminIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenadzerIndex.resx">
+      <DependentUpon>frmMenadzerIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nabavke\frmNabavkaDetalji.resx">
+      <DependentUpon>frmNabavkaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nabavke\frmNabavkaNova.resx">
+      <DependentUpon>frmNabavkaNova.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nabavke\frmNabavke.resx">
+      <DependentUpon>frmNabavke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\frmNarudzbaDetalji.resx">
+      <DependentUpon>frmNarudzbaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudzbe\frmNarudzbe.resx">
+      <DependentUpon>frmNarudzbe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijesti\frmObavijestDetalji.resx">
+      <DependentUpon>frmObavijestDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obavijesti\frmObavijesti.resx">
+      <DependentUpon>frmObavijesti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rezervacije\frmRezervacijaStavke.resx">
+      <DependentUpon>frmRezervacijaStavke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rezervacije\frmRezervacije.resx">
+      <DependentUpon>frmRezervacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Roba\frmIzmjenaStanja.resx">
+      <DependentUpon>frmIzmjenaStanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Roba\frmRoba.resx">
+      <DependentUpon>frmRoba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Roba\frmRobaDetalji.resx">
+      <DependentUpon>frmRobaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uposlenici\frmUposlenici.resx">
+      <DependentUpon>frmUposlenici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uposlenici\frmUposleniciDetalji.resx">
+      <DependentUpon>frmUposleniciDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eRestoran.Model\eRestoran.Model.csproj">
+      <Project>{964e8046-bb0d-4d4d-9690-06fd57b3769b}</Project>
+      <Name>eRestoran.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\562678.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restaurant-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xx.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.AspNetCore.Razor.Design.2.2.0\build\netstandard2.0\Microsoft.AspNetCore.Razor.Design.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.AspNetCore.Razor.Design.2.2.0\build\netstandard2.0\Microsoft.AspNetCore.Razor.Design.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.EntityFrameworkCore.Design.3.0.0\build\net461\Microsoft.EntityFrameworkCore.Design.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.EntityFrameworkCore.Design.3.0.0\build\net461\Microsoft.EntityFrameworkCore.Design.props'))" />
+  </Target>
+</Project>

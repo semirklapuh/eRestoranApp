@@ -1,0 +1,31 @@
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll.config
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll.config
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb

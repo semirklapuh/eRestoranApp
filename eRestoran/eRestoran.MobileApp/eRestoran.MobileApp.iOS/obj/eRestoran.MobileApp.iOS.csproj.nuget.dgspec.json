@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp.iOS\\eRestoran.MobileApp.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp.iOS\\eRestoran.MobileApp.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp.iOS\\eRestoran.MobileApp.iOS.csproj",
+        "projectName": "eRestoran.MobileApp.iOS",
+        "projectPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp.iOS\\eRestoran.MobileApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\Adna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp\\eRestoran.MobileApp.csproj": {
+                "projectPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp\\eRestoran.MobileApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp\\eRestoran.MobileApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp\\eRestoran.MobileApp.csproj",
+        "projectName": "eRestoran.MobileApp",
+        "projectPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp\\eRestoran.MobileApp.csproj",
+        "packagesPath": "C:\\Users\\Adna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.MobileApp\\eRestoran.MobileApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
+                "projectPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+        "projectName": "eRestoran.Model",
+        "projectPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+        "packagesPath": "C:\\Users\\Adna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adna\\Desktop\\eRestoranSeminarski rad\\eRestoran\\eRestoran.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

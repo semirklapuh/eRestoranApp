@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:eRestoran.MobileApp.ViewModels;assembly=eRestoran.MobileApp"
+             x:Class="eRestoran.MobileApp.Views.SveNarudzbePage">
+    <ContentPage.BindingContext>
+        <viewModels:NarudzbeViewModel></viewModels:NarudzbeViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Narudzbe" FontSize="24" Style="{DynamicResource ListItemTextStyle}"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"/>
+            <ListView ItemsSource="{Binding NarudzbaList}" ItemTapped="ListView_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10" Orientation="Vertical">
+                                <Label Text="Narudzba"                                
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                                <StackLayout Orientation="Horizontal">
+                                <Label Text="Datuma:"></Label>
+                                <Label Text="{Binding DatumNarudžbe}"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                </StackLayout>
+                               
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

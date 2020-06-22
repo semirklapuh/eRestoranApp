@@ -1,0 +1,96 @@
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmAdminIndex.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmMenadzerIndex.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavkaDetalji.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavkaNova.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavke.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijesti.frmObavijestDetalji.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijesti.frmObavijesti.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Rezervacije.frmRezervacijaStavke.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Rezervacije.frmRezervacije.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmIzmjenaStanja.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmRoba.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmRobaDetalji.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Uposlenici.frmUposlenici.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Uposlenici.frmUposleniciDetalji.resources
+D:\download\eRestoranRSII-master\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmAdminIndex.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmMenadzerIndex.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavkaDetalji.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavkaNova.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavke.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijesti.frmObavijestDetalji.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijesti.frmObavijesti.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Rezervacije.frmRezervacijaStavke.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Rezervacije.frmRezervacije.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmIzmjenaStanja.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmRoba.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmRobaDetalji.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Uposlenici.frmUposlenici.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Uposlenici.frmUposleniciDetalji.resources
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll.config
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\Users\SEMA-PC\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmAdminIndex.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmMenadzerIndex.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavkaDetalji.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavkaNova.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Nabavke.frmNabavke.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijesti.frmObavijestDetalji.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijesti.frmObavijesti.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Rezervacije.frmRezervacijaStavke.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Rezervacije.frmRezervacije.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmIzmjenaStanja.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmRoba.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Roba.frmRobaDetalji.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Uposlenici.frmUposlenici.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Uposlenici.frmUposleniciDetalji.resources
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\Users\Adna\Desktop\eRestoranSeminarski rad\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
